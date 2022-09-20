@@ -1,7 +1,7 @@
 <h1>Supp, I'm Letícia!</h1>
 <h3>Currently , I do some projects ☕︎</h3>
 
-- 🔭 I’m currently working on [ArtAttack](https://github.com/lehnerdola/ArtAttack)
+- 🔭 I’m currently working on [Escarlate](https://github.com/lehnerdola/Escarlate)
 
 - 🌱 I’m currently learning **JavaScript, C#, Nodejs, Reactjs, MySQL.**
 

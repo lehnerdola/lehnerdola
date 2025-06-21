@@ -1,15 +1,15 @@
 <h1>Supp, I'm Letícia!</h1>
 <h3>Currently , I do some projects ☕︎</h3>
 
-- 🔭 I’m currently working on [Escarlate](https://github.com/lehnerdola/Escarlate)
-
-- 🌱 I’m currently learning **JavaScript, C#, Nodejs, Reactjs, MySQL.**
+- 🔭 I'm currently a data analysis intern.
+  
+- 🌱 I work daily **Python, Microsoft Azure and MySQL.**
 
 - 📫 How to reach me **ln9458143@gmail.com**
 
 - ⚡ Fun fact **I hate avocado 😄**
 
-- 🦥 Pronouns: she/he
+- 🦥 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
